@@ -1,0 +1,4 @@
+.DS_Store
+comprueba_omp
+*.o
+*.s
